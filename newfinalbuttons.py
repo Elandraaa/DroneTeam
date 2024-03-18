@@ -3,7 +3,7 @@
 # "Matthew rates confirmed"???
 
 #file to save data
-outfile = open("C:\Users\keira\OneDrive\Desktop\mpscripts\saved.txt", "w")
+outfile = open("C:\Users\keira\OneDrive\Desktop\mpscripts\newfinalbuttons.py", "w")
 #importing libraries
 import wpf
 from System.Windows import MessageBox
